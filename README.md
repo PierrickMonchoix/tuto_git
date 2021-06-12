@@ -10,7 +10,7 @@ git branch branche1 : crée une branche nommée branche1
 git checkout branche1 : on entre (et donc on traville) dans branche1  
 git merge branche1 : branche1 devient master (je sais pas si sa ajoute ou replace a précédent master)  
 git branch -d branche1 : delete branche1  
-git remote add origin https://github.com/PierrickMonchoix/simpliste.git : variable <origin> = depot distant  
+git remote add origin https://github.com/PierrickMonchoix/... : variable <origin> = depot distant  
 git remote : print depot distant  
 git push origin master : dépot distant = dépot local  
 git pull origin master : depot local = depot existant  
